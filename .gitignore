@@ -1,1 +1,9 @@
 tags
+*.o
+
+src/redis-benchmark
+src/redis-check-aof
+src/redis-check-dump
+src/redis-cli
+src/redis-sentinel
+src/redis-server
